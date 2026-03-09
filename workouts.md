@@ -10,8 +10,8 @@ Some simple exercises for beginners.
 
 ## Example Workout Routine
 
-```bash
-3 sets push-ups
-3 sets squats
-30 seconds plank
+```md
++ 3 sets push-ups
++ 3 sets squats
++ 30 seconds plank
 ```
